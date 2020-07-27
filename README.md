@@ -1,2 +1,2 @@
-# o9z.github.io
+# o7z.github.io
 github pages website
